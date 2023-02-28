@@ -1,2 +1,2 @@
 # Teste-Pratico-Target-Systemas
-Aqui estão os códigos desenvolvidos no decorrer do processo seletivo da Target Sistemas
+Here are the codes developed during the selection process of Target Sistemas
